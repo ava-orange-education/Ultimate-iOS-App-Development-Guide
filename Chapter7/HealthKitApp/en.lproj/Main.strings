@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; configuration.title = "Authorize Healthkit"; ObjectID = "Bc8-OL-jsr"; */
+"Bc8-OL-jsr.configuration.title" = "Authorize Healthkit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bc8-OL-jsr"; */
+"Bc8-OL-jsr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "GPB-bj-JFv"; */
+"GPB-bj-JFv.text" = "Value";
+
+/* Class = "UIButton"; configuration.title = "Write Healthkit"; ObjectID = "TcO-HH-qSg"; */
+"TcO-HH-qSg.configuration.title" = "Write Healthkit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TcO-HH-qSg"; */
+"TcO-HH-qSg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "YbH-li-WuW"; */
+"YbH-li-WuW.text" = "Value";
+
+/* Class = "UILabel"; text = "Weight (lbs)"; ObjectID = "cTW-qm-MdZ"; */
+"cTW-qm-MdZ.text" = "Weight (lbs)";
+
+/* Class = "UILabel"; text = "Calories"; ObjectID = "fyE-Pw-fJ2"; */
+"fyE-Pw-fJ2.text" = "Calories";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "hB4-Qe-ahc"; */
+"hB4-Qe-ahc.text" = "Distance";
+
+/* Class = "UILabel"; text = "Steps"; ObjectID = "hCE-Rh-hxz"; */
+"hCE-Rh-hxz.text" = "Steps";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "lA6-Y9-u9I"; */
+"lA6-Y9-u9I.text" = "Value";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "mIz-NB-QGm"; */
+"mIz-NB-QGm.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mIz-NB-QGm"; */
+"mIz-NB-QGm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Height (inches)"; ObjectID = "tQT-w1-diR"; */
+"tQT-w1-diR.text" = "Height (inches)";
+
+/* Class = "UIButton"; configuration.title = "Read Healthkit"; ObjectID = "vqC-Lo-zHg"; */
+"vqC-Lo-zHg.configuration.title" = "Read Healthkit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vqC-Lo-zHg"; */
+"vqC-Lo-zHg.normalTitle" = "Button";
